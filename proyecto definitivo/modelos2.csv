@@ -1,0 +1,5 @@
+name,model,mae,mse,r2
+KNeighborsRegressor(),KNeighborsRegressor(),1.1978655527553432,13.276748539708292,0.908727872520397
+DecisionTreeRegressor(),DecisionTreeRegressor(),0.8444892316156087,20.872670559915672,0.856509066019696
+RandomForestRegressor(),RandomForestRegressor(),0.818643292918136,12.933286515594546,0.911089031169712
+GradientBoostingRegressor(),GradientBoostingRegressor(),2.914215691978961,27.8803131218964,0.8083344362648532
